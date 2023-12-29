@@ -31,14 +31,26 @@ function Thekongs() {
           />
         </div>
         <div className="hidden lg:block absolute w-[180px] h-[180px] rounded-[8px] border-4 border-solid border-[#FDDA60] shadow-[0_0_15px_0_#FDDA60] top-[19%] left-[4%] overflow-hidden">
-          <img className="rounded-[8px] border-none hover:scale-[1.1] duration-300" src={konggun} alt="ape" />
+          <img
+            className="rounded-[8px] border-none hover:scale-[1.1] duration-300"
+            src={konggun}
+            alt="ape"
+          />
         </div>
         <div className="hidden lg:block absolute w-[180px] h-[180px] rounded-[8px] border-4 border-solid border-[#FDDA60] shadow-[0_0_15px_0_#FDDA60] top-[38%] left-[12%] overflow-hidden">
-          <img className="rounded-[8px] border-none hover:scale-[1.1] duration-300" src={kongwhite} alt="ape" />
+          <img
+            className="rounded-[8px] border-none hover:scale-[1.1] duration-300"
+            src={kongwhite}
+            alt="ape"
+          />
         </div>
         <div className="hidden lg:block absolute w-[180px] h-[180px] rounded-[8px] border-4 border-solid border-[#FDDA60] shadow-[0_0_15px_0_#FDDA60] top-[57%] left-[4%] overflow-hidden">
-          <img className="rounded-[8px] border-none hover:scale-[1.1] duration-300" src={kongPrince} alt="ape" />
-        </div>  
+          <img
+            className="rounded-[8px] border-none hover:scale-[1.1] duration-300"
+            src={kongPrince}
+            alt="ape"
+          />
+        </div>
         <div className="hidden lg:block absolute w-[180px] h-[180px] rounded-[8px] border-4 border-solid border-[#FDDA60] shadow-[0_0_15px_0_#FDDA60] bottom-[8%] left-[-2%] overflow-hidden">
           <img
             className="rounded-[8px] border-none hover:scale-[1.1] duration-300"
@@ -61,46 +73,90 @@ function Thekongs() {
           />
         </div>
         <div className="hidden lg:block absolute w-[180px] h-[180px] rounded-[8px] border-4 border-solid border-[#FDDA60] top-[38%] right-[12%] shadow-[0_0_15px_0_#FDDA60] overflow-hidden">
-          <img className="rounded-[8px] border-none hover:scale-[1.1] duration-300" src={Pac} alt="ape" />
+          <img
+            className="rounded-[8px] border-none hover:scale-[1.1] duration-300"
+            src={Pac}
+            alt="ape"
+          />
         </div>
         <div className="hidden lg:block absolute w-[180px] h-[180px] rounded-[8px] border-4 border-solid border-[#FDDA60] shadow-[0_0_15px_0_#FDDA60] top-[57%] right-[4%] overflow-hidden">
-          <img className="rounded-[8px] border-none hover:scale-[1.1] duration-300" src={Elvis} alt="ape" />
+          <img
+            className="rounded-[8px] border-none hover:scale-[1.1] duration-300"
+            src={Elvis}
+            alt="ape"
+          />
         </div>
         <div className="hidden lg:block absolute w-[180px] h-[180px] rounded-[8px] border-4 border-solid border-[#FDDA60] shadow-[0_0_15px_0_#FDDA60] bottom-[8%] right-[-2%] overflow-hidden">
           <img
             className="rounded-[8px] border-none hover:scale-[1.1] duration-300"
             src={kongred}
             alt="brown ape"
-          /> 
+          />
         </div>
 
-        <div className="flex flex-wrap justify-center block lg:hidden gap-3"> 
+        <div className="flex flex-wrap justify-center block lg:hidden gap-3">
           <div className="w-[180px] h-[180px] rounded-[8px] border-4 border-solid border-[#FDDA60] shadow-[0_0_15px_0_#FDDA60] mt-3 overflow-hidden">
-            <img className="rounded-[8px] border-none hover:scale-[1.1] duration-300" src={kongred} alt="brown ape"/>
+            <img
+              className="rounded-[8px] border-none hover:scale-[1.1] duration-300"
+              src={kongred}
+              alt="brown ape"
+            />
           </div>
           <div className="w-[180px] h-[180px] rounded-[8px] border-4 border-solid border-[#FDDA60] shadow-[0_0_15px_0_#FDDA60] mt-3 overflow-hidden">
-            <img className="rounded-[8px] border-none hover:scale-[1.1] duration-300" src={konggun} alt="ape" />
+            <img
+              className="rounded-[8px] border-none hover:scale-[1.1] duration-300"
+              src={konggun}
+              alt="ape"
+            />
           </div>
           <div className="w-[180px] h-[180px] rounded-[8px] border-4 border-solid border-[#FDDA60] shadow-[0_0_15px_0_#FDDA60] mt-3 overflow-hidden">
-            <img className="rounded-[8px] border-none hover:scale-[1.1] duration-300" src={kongwhite} alt="ape" />
+            <img
+              className="rounded-[8px] border-none hover:scale-[1.1] duration-300"
+              src={kongwhite}
+              alt="ape"
+            />
           </div>
           <div className="w-[180px] h-[180px] rounded-[8px] border-4 border-solid border-[#FDDA60] shadow-[0_0_15px_0_#FDDA60] mt-3 overflow-hidden">
-            <img className="rounded-[8px] border-none hover:scale-[1.1] duration-300" src={kongPrince} alt="ape" />
+            <img
+              className="rounded-[8px] border-none hover:scale-[1.1] duration-300"
+              src={kongPrince}
+              alt="ape"
+            />
           </div>
           <div className="w-[180px] h-[180px] rounded-[8px] border-4 border-solid border-[#FDDA60] shadow-[0_0_15px_0_#FDDA60] mt-3 overflow-hidden">
-            <img className="rounded-[8px] border-none hover:scale-[1.1] duration-300" src={kongcat} alt="brown ape" />
+            <img
+              className="rounded-[8px] border-none hover:scale-[1.1] duration-300"
+              src={kongcat}
+              alt="brown ape"
+            />
           </div>
           <div className="w-[180px] h-[180px] rounded-[8px] border-4 border-solid border-[#FDDA60] mt-3 shadow-[0_0_15px_0_#FDDA60] overflow-hidden">
-            <img className="rounded-[8px] border-none hover:scale-[1.1] duration-300" src={HeMan} alt="brown ape" />
+            <img
+              className="rounded-[8px] border-none hover:scale-[1.1] duration-300"
+              src={HeMan}
+              alt="brown ape"
+            />
           </div>
           <div className="w-[180px] h-[180px] rounded-[8px] border-4 border-solid border-[#FDDA60] mt-3 shadow-[0_0_15px_0_#FDDA60] overflow-hidden">
-            <img className="rounded-[8px] border-none hover:scale-[1.1] duration-300" src={Anonymous} alt="ape" />
+            <img
+              className="rounded-[8px] border-none hover:scale-[1.1] duration-300"
+              src={Anonymous}
+              alt="ape"
+            />
           </div>
           <div className="w-[180px] h-[180px] rounded-[8px] border-4 border-solid border-[#FDDA60] mt-3 shadow-[0_0_15px_0_#FDDA60] overflow-hidden">
-            <img className="rounded-[8px] border-none hover:scale-[1.1] duration-300" src={Pac} alt="ape" />
+            <img
+              className="rounded-[8px] border-none hover:scale-[1.1] duration-300"
+              src={Pac}
+              alt="ape"
+            />
           </div>
           <div className="w-[180px] h-[180px] rounded-[8px] border-4 shadow-[0_0_15px_0_#FDDA60]  border-[#FDDA60] mt-3 overflow-hidden">
-            <img className="rounded-[8px] border-none hover:scale-[1.1] duration-300" src={Elvis} alt="ape" />
+            <img
+              className="rounded-[8px] border-none hover:scale-[1.1] duration-300"
+              src={Elvis}
+              alt="ape"
+            />
           </div>
         </div>
       </div>

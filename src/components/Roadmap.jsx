@@ -34,7 +34,7 @@ function Section5() {
                   fill="white"
                 />
               </svg>
-              <div className="w-[76px] h-[76px] bg-white text-black font-montserrat text-[20px] not-italic font-black rounded-[50%] flex justify-center items-center leading-[108.744%] xl:ml-6 mr-[43px] shrink-0 group-hover:bg-[#FDDA60] group-hover:shadow-[0px_4px_21px_rgba(253,218,96,0.70)]">
+              <div className="w-[76px] h-[76px] bg-white text-black font-montserrat text-[20px] not-italic font-black rounded-[50%] flex justify-center items-center leading-[108.744%] xl:ml-6 mr-[43px] shrink-0 group-hover:bg-[#FDDA60] group-hover:shadow-[0px_4px_21px_rgba(253,218,96,0.70)] duration-300">
                 20%
               </div>
               <div className="flex flex-col gap-y-2 xl:max-w-[593px]">
@@ -63,7 +63,7 @@ function Section5() {
                   fill="white"
                 />
               </svg>
-              <div className="w-[76px] h-[76px] bg-white text-black font-montserrat text-[20px] not-italic font-black rounded-[50%] flex justify-center items-center leading-[108.744%] xl:ml-[41px] mr-[43px] shrink-0 group-hover:bg-[#FDDA60] group-hover:shadow-[0px_4px_21px_rgba(253,218,96,0.70)]">
+              <div className="w-[76px] h-[76px] bg-white text-black font-montserrat text-[20px] not-italic font-black rounded-[50%] flex justify-center items-center leading-[108.744%] xl:ml-[41px] mr-[43px] shrink-0 group-hover:bg-[#FDDA60] group-hover:shadow-[0px_4px_21px_rgba(253,218,96,0.70)] duration-300">
                 40%
               </div>
               <div className="flex flex-col gap-y-2 xl:max-w-[593px]">
@@ -121,7 +121,7 @@ function Section5() {
                   fill="white"
                 />
               </svg>
-              <div className="w-[76px] h-[76px] bg-white text-black font-montserrat text-[20px] not-italic font-black rounded-[50%] flex justify-center items-center leading-[108.744%] xl:ml-[41px] mr-[43px] shrink-0 group-hover:bg-[#FDDA60] group-hover:shadow-[0px_4px_21px_rgba(253,218,96,0.70)]">
+              <div className="w-[76px] h-[76px] bg-white text-black font-montserrat text-[20px] not-italic font-black rounded-[50%] flex justify-center items-center leading-[108.744%] xl:ml-[41px] mr-[43px] shrink-0 group-hover:bg-[#FDDA60] group-hover:shadow-[0px_4px_21px_rgba(253,218,96,0.70)] duration-300">
                 80%
               </div>
               <div className="flex flex-col gap-y-2 xl:max-w-[593px]">
@@ -135,7 +135,7 @@ function Section5() {
               </div>
             </div>
 
-            <div className="flex items-center w-full xl:max-w-[857px] xl:absolute xl:bottom-[5%] xl:left-[-19%] group">
+            <div className="flex items-center w-full xl:max-w-[857px] xl:absolute xl:bottom-[5%] xl:left-[-19%] group duration-300">
               <svg
                 className="shrink-0 hidden xl:block"
                 xmlns="http://www.w3.org/2000/svg"
@@ -145,12 +145,12 @@ function Section5() {
                 fill="none"
               >
                 <path
-                  className="group-hover:fill-[#FDDA60]"
+                  className="group-hover:fill-[#FDDA60] "
                   d="M0.666667 6C0.666666 8.94552 3.05448 11.3333 6 11.3333C8.94552 11.3333 11.3333 8.94552 11.3333 6C11.3333 3.05448 8.94552 0.666667 6 0.666667C3.05448 0.666666 0.666667 3.05448 0.666667 6ZM121.667 6.00001C121.667 8.94553 124.054 11.3333 127 11.3333C129.946 11.3333 132.333 8.94553 132.333 6.00001C132.333 3.05449 129.946 0.666677 127 0.666677C124.054 0.666677 121.667 3.05449 121.667 6.00001ZM6 7L127 7.00001L127 5.00001L6 5L6 7Z"
                   fill="white"
                 />
               </svg>
-              <div className="w-[76px] h-[76px] bg-white text-black font-montserrat text-[20px] not-italic font-black rounded-[50%] flex justify-center items-center leading-[108.744%] xl:ml-[24px] mr-[43px] shrink-0 group-hover:bg-[#FDDA60] group-hover:shadow-[0px_4px_21px_rgba(253,218,96,0.70)]">
+              <div className="w-[76px] h-[76px] bg-white text-black font-montserrat text-[20px] not-italic font-black rounded-[50%] flex justify-center items-center leading-[108.744%] xl:ml-[24px] mr-[43px] shrink-0 group-hover:bg-[#FDDA60] group-hover:shadow-[0px_4px_21px_rgba(253,218,96,0.70)] duration-300">
                 100%
               </div>
               <div className="flex flex-col gap-y-2 xl:max-w-[593px]">
@@ -166,7 +166,7 @@ function Section5() {
           </div>
         </div>
         <div className="flex justify-center mt-11">
-        <button className=" hover:animate-pulse bg-[#FDDA60] rounded-[4px] shadow-[0px_9px_29px_0px_rgba(253,218,96,0.50)] py-4 px-6 font-azo text-[20px] font-normal"> Read Our Whitepaper</button>
+        <button className=" duration-300 hover:animate-pulse bg-[#FDDA60] rounded-[4px] shadow-[0px_9px_29px_0px_rgba(253,218,96,0.50)] py-4 px-6 font-azo text-[20px] font-normal"> Read Our Whitepaper</button>
         </div>
       </div>
     </>

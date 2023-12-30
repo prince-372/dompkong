@@ -1,5 +1,5 @@
 import React from "react";
-import bigkong from "../assets/image/Big-kong.png ";
+import bigkong from '../assets/image/big-kong.png'
 import kongred from "../assets/image/kong-red.png";
 import konggun from "../assets/image/kong-gun.png";
 import kongwhite from "../assets/image/kong-white.png";

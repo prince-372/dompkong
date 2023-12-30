@@ -7,7 +7,7 @@ const Header = () => {
         <div className="flex justify-center">
           <img src={pagelogo} alt="pagelogo" />
         </div>
-          <button className=" hover:animate-pulse  sm:absolute right-0 top-5 rounded shadow-[0px_9px_29px_0px_rgba(253,218,96,0.50)] bg-[#fdda60] py-4 px-6 font-normal text-base leading-[108%] text-black font-azo">
+          <button className=" duration-300 hover:animate-pulse  sm:absolute right-0 top-5 rounded shadow-[0px_9px_29px_0px_rgba(253,218,96,0.50)] bg-[#fdda60] py-4 px-6 font-normal text-base leading-[108%] text-black font-azo">
             CONNECT WALLET
           </button>
       <div className="flex gap-4 pt-4 justify-center">
@@ -25,7 +25,7 @@ const Header = () => {
             />
           </svg>
         </a>
-        <a href="" target="_blank" className="hover:animate-bounce ">
+        <a href="" target="_blank" className="hover:animate-bounce duration-300">
           <svg
             width="24"
             height="24"
@@ -43,7 +43,7 @@ const Header = () => {
             </g>
           </svg>
         </a>
-        <a href="" target="_blank" className="hover:animate-bounce ">
+        <a href="" target="_blank" className="hover:animate-bounce duration-300">
           <svg
             width="24"
             height="24"
@@ -61,7 +61,7 @@ const Header = () => {
             </g>
           </svg>
         </a>
-        <a href="https://discord.com/channels/@me/1118136067724423238" target="_blank" className="hover:animate-bounce ">
+        <a href="https://discord.com/channels/@me/1118136067724423238" target="_blank" className="hover:animate-bounce duration-300">
           <svg
             width="24"
             height="24"
@@ -77,7 +77,7 @@ const Header = () => {
             />
           </svg>
         </a>
-        <a href="" className="hover:animate-bounce ">
+        <a href="" className="hover:animate-bounce duration-300">
           <svg
             width="24"
             height="24"
@@ -91,7 +91,7 @@ const Header = () => {
             />
           </svg>
         </a>
-        <a href="https://web.telegram.org/k/" target="_blank" className="hover:animate-bounce ">
+        <a href="https://web.telegram.org/k/" target="_blank" className="hover:animate-bounce duration-300">
           <svg
             width="24"
             height="24"
@@ -115,9 +115,9 @@ const Header = () => {
       <p className="text-base font-normal text-white max-w-[506px] text-center mx-auto pt-5 font-Montserrat">Turpis et tortor vel pharetra nibh. Mauris nisl sit vitae viverra amet et. Erat nam molestie. Vita</p>
       </div>
       <div className=" gap-6 flex flex-wrap justify-center pt-6">
-        <button className="hover:animate-pulse rounded bg-[#fdda60] shadow-[0px_4px_16px_0px_rgba(253,218,96,0.50)] py-4 px-6 font-normal text-base leading-[108%] text-black font-azo">Whitepaper</button>
-        <button className="hover:animate-pulse rounded bg-[#fdda60] shadow-[0px_4px_16px_0px_rgba(253,218,96,0.50)] py-4 px-6 font-normal text-base leading-[108%] text-black font-azo">Mint</button>
-        <button className="hover:animate-pulse rounded bg-[#fdda60] shadow-[0px_4px_16px_0px_rgba(253,218,96,0.50)] py-4 px-6 font-normal text-base leading-[108%] text-black font-azo">Opensea</button>
+        <button className="hover:animate-pulse rounded bg-[#fdda60] shadow-[0px_4px_16px_0px_rgba(253,218,96,0.50)] py-4 px-6 font-normal text-base leading-[108%] text-black font-azo duration-300">Whitepaper</button>
+        <button className="hover:animate-pulse rounded bg-[#fdda60] shadow-[0px_4px_16px_0px_rgba(253,218,96,0.50)] py-4 px-6 font-normal text-base leading-[108%] text-black font-azo duration-300">Mint</button>
+        <button className="hover:animate-pulse rounded bg-[#fdda60] shadow-[0px_4px_16px_0px_rgba(253,218,96,0.50)] py-4 px-6 font-normal text-base leading-[108%] text-black font-azo duration-300">Opensea</button>
       </div>
     </div>
   );

@@ -41,7 +41,7 @@ const Meet = () => {
             tempus nisi. Sed at in nisl feugiat non in amet eu facilisis.
           </p>
           <div className="flex gap-4 pt-5">
-            <a href="https://www.instagram.com/" target="_blank" className="hover:animate-bounce">
+            <a href="https://www.instagram.com/" target="_blank" className="hover:animate-bounce duration-300">
               <svg
                 width="24"
                 height="24"
@@ -59,7 +59,7 @@ const Meet = () => {
                 />
               </svg>
               </a>
-              <a href="https://twitter.com/i/flow/login?input_flow_data=%7B%22requested_variant%22%3A%22eyJsYW5nIjoiZW4ifQ%3D%3D%22%7D" target="_blank" className="hover:animate-bounce">
+              <a href="https://twitter.com/i/flow/login?input_flow_data=%7B%22requested_variant%22%3A%22eyJsYW5nIjoiZW4ifQ%3D%3D%22%7D" target="_blank" className="hover:animate-bounce duration-300">
               <svg
                 width="24"
                 height="24"
@@ -108,7 +108,7 @@ const Meet = () => {
             tristique adipiscing non diam fermentum.
           </p>
           <div className="flex gap-4 pt-5">
-          <a href="https://www.instagram.com/" target="_blank" className="hover:animate-bounce">
+          <a href="https://www.instagram.com/" target="_blank" className="hover:animate-bounce duration-300">
               <svg
                 width="24"
                 height="24"
@@ -126,7 +126,7 @@ const Meet = () => {
                 />
               </svg>
             </a>
-            <a href="https://twitter.com/i/flow/login?input_flow_data=%7B%22requested_variant%22%3A%22eyJsYW5nIjoiZW4ifQ%3D%3D%22%7D" target="_blank" className="hover:animate-bounce">
+            <a href="https://twitter.com/i/flow/login?input_flow_data=%7B%22requested_variant%22%3A%22eyJsYW5nIjoiZW4ifQ%3D%3D%22%7D" target="_blank" className="hover:animate-bounce duration-300">
               <svg
                 width="24"
                 height="24"
@@ -175,7 +175,7 @@ const Meet = () => {
             Urna, in molestie ac quam nisl orci mattis.
           </p>
           <div className="flex gap-4 pt-5">
-            <a href="https://www.instagram.com/" target="_blank" className="hover:animate-bounce">
+            <a href="https://www.instagram.com/" target="_blank" className="hover:animate-bounce duration-300">
               <svg
                 width="24"
                 height="24"
@@ -193,7 +193,7 @@ const Meet = () => {
                 />
               </svg>
               </a>
-            <a href="https://twitter.com/i/flow/login?input_flow_data=%7B%22requested_variant%22%3A%22eyJsYW5nIjoiZW4ifQ%3D%3D%22%7D" target="_blank" className="hover:animate-bounce">
+            <a href="https://twitter.com/i/flow/login?input_flow_data=%7B%22requested_variant%22%3A%22eyJsYW5nIjoiZW4ifQ%3D%3D%22%7D" target="_blank" className="hover:animate-bounce duration-300">
               <svg
                 width="24"
                 height="24"
